@@ -49,7 +49,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Made With Love
 
-
 **MVZZ pz Svcl**
 
 ---
