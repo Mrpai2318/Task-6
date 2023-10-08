@@ -47,7 +47,7 @@ Contributions and suggestions are welcome! Feel free to fork this repository and
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-Made With Love
+Made With Love shifting **7** times
 
 **MVZZ pz Svcl**
 
